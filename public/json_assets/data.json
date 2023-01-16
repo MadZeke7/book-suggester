@@ -1,184 +1,121 @@
-{"books":
-    [
-        {
-        "book_no": 1,
-        "book_title": "Classical Mythology",
-        "book_author": "Mark P. O. Morford",
-        "year": 2002,
-        "genre": "History",
-        "publisher": "Oxford University Press",
-        "book_image": "http://images.amazon.com/images/P/0195153448.01.LZZZZZZZ.jpg"
-        },
-        {
-        "book_no": 2,
-        "book_title": "Clara Callan",
-        "book_author": "Richard Bruce Wright",
-        "year": 2001,
-        "genre": "Biography",
-        "publisher": "HarperFlamingo Canada",
-        "book_image": "http://images.amazon.com/images/P/0002005018.01.LZZZZZZZ.jpg"
-        },
-        {
-        "book_no": 3,
-        "book_title": "Decision in Normandy",
-        "book_author": "Carlo D'Este",
-        "year": 1991,
-        "genre": "History",
-        "publisher": "HarperPerennial",
-        "book_image": "http://images.amazon.com/images/P/0060973129.01.LZZZZZZZ.jpg"
-        },
-        {
-        "book_no": 4,
-        "book_title": "Flu: The Story of the Great Influenza Pandemic of 1918 and the Search for the Virus That Caused It",
-        "book_author": "Gina Bari Kolata",
-        "year": 1999,
-        "genre": "Science",
-        "publisher": "Farrar Straus Giroux",
-        "book_image": "http://images.amazon.com/images/P/0374157065.01.LZZZZZZZ.jpg"
-        },
-        {
-        "book_no": 5,
-        "book_title": "The Mummies of Urumchi",
-        "book_author": "E. J. W. Barber",
-        "year": 1999,
-        "genre": "History",
-        "publisher": "W. W. Norton & Company",
-        "book_image": "http://images.amazon.com/images/P/0393045218.01.LZZZZZZZ.jpg"
-        },
-        {
-        "book_no": 6,
-        "book_title": "The Kitchen God's Wife",
-        "book_author": "Amy Tan",
-        "year": 1991,
-        "genre": "Fiction",
-        "publisher": "Putnam Pub Group",
-        "book_image": "http://images.amazon.com/images/P/0399135782.01.LZZZZZZZ.jpg"
-        },
-        {
-        "book_no": 7,
-        "book_title": "What If?: The World's Foremost Military Historians Imagine What Might Have Been",
-        "book_author": "Robert Cowley",
-        "year": 2000,
-        "genre": "Science",
-        "publisher": "Berkley Publishing Group",
-        "book_image": "http://images.amazon.com/images/P/0425176428.01.LZZZZZZZ.jpg"
-        },
-        {
-        "book_no": 8,
-        "book_title": "PLEADING GUILTY",
-        "book_author": "Scott Turow",
-        "year": 1993,
-        "genre": "Thriller",
-        "publisher": "Audioworks",
-        "book_image": "http://images.amazon.com/images/P/0671870432.01.LZZZZZZZ.jpg"
-        },
-        {
-        "book_no": 9,
-        "book_title": "Under the Black Flag: The Romance and the Reality of Life Among the Pirates",
-        "book_author": "David Cordingly",
-        "year": 1996,
-        "genre": "Romance",
-        "publisher": "Random House",
-        "book_image": "http://images.amazon.com/images/P/0679425608.01.LZZZZZZZ.jpg"
-        },
-        {
-        "book_no": 10,
-        "book_title": "Where You'll Find Me: And Other Stories",
-        "book_author": "Ann Beattie",
-        "year": 2002,
-        "genre": "Mystery",
-        "publisher": "Scribner",
-        "book_image": "http://images.amazon.com/images/P/074322678X.01.LZZZZZZZ.jpg"
-        },
-        {
-        "book_no": 11,
-        "book_title": "Nights Below Station Street",
-        "book_author": "David Adams Richards",
-        "year": 1988,
-        "genre": "Romance",
-        "publisher": "Emblem Editions",
-        "book_image": "http://images.amazon.com/images/P/0771074670.01.LZZZZZZZ.jpg"
-        },
-        {
-        "book_no": 12,
-        "book_title": "Hitler's Secret Bankers: The Myth of Swiss Neutrality During the Holocaust",
-        "book_author": "Adam Lebor",
-        "year": 2000,
-        "genre": "Thriller",
-        "publisher": "Citadel Press",
-        "book_image": "http://images.amazon.com/images/P/080652121X.01.LZZZZZZZ.jpg"
-        },
-        {
-        "book_no": 13,
-        "book_title": "The Middle Stories",
-        "book_author": "Sheila Heti",
-        "year": 2004,
-        "genre": "Fiction",
-        "publisher": "House of Anansi Press",
-        "book_image": "http://images.amazon.com/images/P/0887841740.01.LZZZZZZZ.jpg"
-        },
-        {
-        "book_no": 14,
-        "book_title": "Jane Doe",
-        "book_author": "R. J. Kaiser",
-        "year": 1999,
-        "genre": "Biography",
-        "publisher": "Mira Books",
-        "book_image": "http://images.amazon.com/images/P/1552041778.01.LZZZZZZZ.jpg"
-        },
-        {
-        "book_no": 15,
-        "book_title": "A Second Chicken Soup for the Woman's Soul (Chicken Soup for the Soul Series)",
-        "book_author": "Jack Canfield",
-        "year": 1998,
-        "genre": "Fiction",
-        "publisher": "Health Communications",
-        "book_image": "http://images.amazon.com/images/P/1558746218.01.LZZZZZZZ.jpg"
-        },
-        {
-        "book_no": 16,
-        "book_title": "The Witchfinder (Amos Walker Mystery Series)",
-        "book_author": "Loren D. Estleman",
-        "year": 1998,
-        "genre": "Mystery",
-        "publisher": "Brilliance Audio - Trade",
-        "book_image": "http://images.amazon.com/images/P/1567407781.01.LZZZZZZZ.jpg"
-        },
-        {
-        "book_no": 17,
-        "book_title": "More Cunning Than Man: A Social History of Rats and Man",
-        "book_author": "Robert Hendrickson",
-        "year": 1999,
-        "genre": "Science",
-        "publisher": "Kensington Publishing Corp.",
-        "book_image": "http://images.amazon.com/images/P/1575663937.01.LZZZZZZZ.jpg"
-        },
-        {
-        "book_no": 18,
-        "book_title": "Goodbye to the Buttermilk Sky",
-        "book_author": "Julia Oliver",
-        "year": 1994,
-        "genre": "Fiction",
-        "publisher": "River City Pub",
-        "book_image": "http://images.amazon.com/images/P/1881320189.01.LZZZZZZZ.jpg"
-        },
-        {
-        "book_no": 19,
-        "book_title": "The Testament",
-        "book_author": "John Grisham",
-        "year": 1999,
-        "genre": "Thriller",
-        "publisher": "Dell",
-        "book_image": "http://images.amazon.com/images/P/0440234743.01.LZZZZZZZ.jpg"
-        },
-        {
-        "book_no": 20,
-        "book_title": "Beloved (Plume Contemporary Fiction)",
-        "book_author": "Toni Morrison",
-        "year": 1994,
-        "genre": "Romance",
-        "publisher": "Plume",
-        "book_image": "http://images.amazon.com/images/P/0452264464.01.LZZZZZZZ.jpg"
-        }
+{
+  "books": [
+    {
+      "book_no": 1,
+      "book_title": "Classical Mythology",
+      "book_author": "Mark P. O. Morford",
+      "year": 2002,
+      "genre": "History",
+      "publisher": "Oxford University Press",
+      "book_image": "http://images.amazon.com/images/P/0195153448.01.LZZZZZZZ.jpg"
+    },
+    {
+      "book_no": 2,
+      "book_title": "Clara Callan",
+      "book_author": "Richard Bruce Wrighet",
+      "genre": "Biography",
+      "year": "2009",
+      "publisher": "",
+      "book_image": "http://images.amazon.com/images/P/0002005018.01.LZZZZZZZ.jpg"
+    },
+    {
+      "book_no": 4,
+      "book_title": "Flu: The Story of the Great Influenza Pandemic of 1918",
+      "book_author": "Gina Bari Kolata",
+      "year": 1999,
+      "genre": "Science",
+      "publisher": "Farrar Straus Giroux",
+      "book_image": "http://images.amazon.com/images/P/0374157065.01.LZZZZZZZ.jpg"
+    },
+    {
+      "book_no": 5,
+      "book_title": "The Mummies of Urumchi",
+      "book_author": "E. J. W. Barber",
+      "year": 1999,
+      "genre": "History",
+      "publisher": "W. W. Norton & Company",
+      "book_image": "http://images.amazon.com/images/P/0393045218.01.LZZZZZZZ.jpg"
+    },
+    {
+      "book_no": 7,
+      "book_title": "What If?: The World's Foremost Military Historians",
+      "book_author": "Robert Cowley",
+      "year": 2000,
+      "genre": "Science",
+      "publisher": "Berkley Publishing Group",
+      "book_image": "http://images.amazon.com/images/P/0425176428.01.LZZZZZZZ.jpg"
+    },
+    {
+      "book_no": 8,
+      "book_title": "PLEADING GUILTY",
+      "book_author": "Scott Turow",
+      "year": 1993,
+      "genre": "Thriller",
+      "publisher": "Audioworks",
+      "book_image": "http://images.amazon.com/images/P/0671870432.01.LZZZZZZZ.jpg"
+    },
+    {
+      "book_no": 10,
+      "book_title": "Where You'll Find Me: And Other Stories",
+      "book_author": "Ann Beattie",
+      "year": 2002,
+      "genre": "Mystery",
+      "publisher": "Scribner",
+      "book_image": "http://images.amazon.com/images/P/074322678X.01.LZZZZZZZ.jpg"
+    },
+    {
+      "book_no": 11,
+      "book_title": "Nights Below Station Street",
+      "book_author": "David Adams Richards",
+      "year": 1988,
+      "genre": "Romance",
+      "publisher": "Emblem Editions",
+      "book_image": "http://images.amazon.com/images/P/0771074670.01.LZZZZZZZ.jpg"
+    },
+    {
+      "book_no": 13,
+      "book_title": "The Middle Stories",
+      "book_author": "Sheila Heti",
+      "year": 2004,
+      "genre": "Fiction",
+      "publisher": "House of Anansi Press",
+      "book_image": "http://images.amazon.com/images/P/0887841740.01.LZZZZZZZ.jpg"
+    },
+    {
+      "book_no": 14,
+      "book_title": "Jane Doe",
+      "book_author": "R. J. Kaiser",
+      "year": 1999,
+      "genre": "Biography",
+      "publisher": "Mira Books",
+      "book_image": "http://images.amazon.com/images/P/1552041778.01.LZZZZZZZ.jpg"
+    },
+    {
+      "book_no": 15,
+      "book_title": "A Second Chicken Soup for the Woman's Soul (Chicken Soup for the Soul Series)",
+      "book_author": "Jack Canfield",
+      "year": 1998,
+      "genre": "Fiction",
+      "publisher": "Health Communications",
+      "book_image": "http://images.amazon.com/images/P/1558746218.01.LZZZZZZZ.jpg"
+    },
+    {
+      "book_no": 16,
+      "book_title": "The Witchfinder (Amos Walker Mystery Series)",
+      "book_author": "Loren D. Estleman",
+      "year": 1998,
+      "genre": "Mystery",
+      "publisher": "Brilliance Audio - Trade",
+      "book_image": "http://images.amazon.com/images/P/1567407781.01.LZZZZZZZ.jpg"
+    },
+    {
+      "book_no": 19,
+      "book_title": "The Testament",
+      "book_author": "John Grisham",
+      "year": 1999,
+      "genre": "Thriller",
+      "publisher": "Dell",
+      "book_image": "http://images.amazon.com/images/P/0440234743.01.LZZZZZZZ.jpg"
+    }
   ]
 }
